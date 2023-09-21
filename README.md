@@ -5,12 +5,14 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Full Stack Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexk27197&label=Profile%20views&color=0e75b6&style=flat" alt="alexk27197" /> </p>
+
 <h3>About Me:</h3>
 <p>
 I'm Alex Kogan, and a year ago, I embarked on a journey into the realm of Full Stack Development. My academic adventure introduced me to a suite of technologies such as React, Node.js, Express, MongoDB, JavaScript, HTML, CSS, Bootstrap, PHP, MySQL, and Material UI. My passion truly ignites when I'm engrossed in code, especially web development. As a diligent, trustworthy, and ambitious individual, I am eager to harness my skills in a full-time Full Stack Development role. I've also been honored with a Full Stack course completion certificate, underscoring my dedication and proficiency in the domain.
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexk27197&label=Profile%20views&color=0e75b6&style=flat" alt="alexk27197" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
