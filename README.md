@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="C:\Users\kogan\OneDrive\שולחן העבודה" alt="Alex's Profile Picture" width="150">
+</p>
+
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Full Stack Developer | Software Engineer</h3>
 
