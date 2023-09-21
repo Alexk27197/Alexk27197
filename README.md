@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/software-developer-working-at-office-9170966-7495614.mp4?h=700" alt="Alex's Profile Picture" width="150">
+  <img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif" alt="Alex's Profile Picture" width="150">
 </p>
 
 <h1 align="center">Hi 👋, I'm Alex</h1>
