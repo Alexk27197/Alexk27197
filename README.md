@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../C:\Users\kogan\OneDrive\שולחן העבודה\githubImg.png" alt="Alex's Profile Picture" width="150">
+  <img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/software-developer-working-at-office-9170966-7495614.mp4?h=700" alt="Alex's Profile Picture" width="150">
 </p>
 
 <h1 align="center">Hi 👋, I'm Alex</h1>
